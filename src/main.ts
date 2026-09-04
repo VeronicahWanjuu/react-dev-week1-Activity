@@ -21,3 +21,9 @@ function displayBook(book: Book): void {
     bookList.appendChild(bookDiv);
   }
 }
+
+interface Review {
+  bookId: number;
+  rating: number;
+  comment: string;
+}
