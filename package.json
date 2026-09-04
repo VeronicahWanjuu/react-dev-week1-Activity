@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/VeronicahWanjuu/react-dev-week1-Activity/issues"
   },
-  "homepage": "https://github.com/VeronicahWanjuu/react-dev-week1-Activity#readme"
+  "homepage": "https://github.com/VeronicahWanjuu/react-dev-week1-Activity#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
 }
