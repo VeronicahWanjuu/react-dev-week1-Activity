@@ -1,0 +1,20 @@
+{
+  "name": "react-dev-week1-Activity",
+  "version": "1.0.0",
+  "description": "Converting a JavaScript project to TypeScript and setting up Webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VeronicahWanjuu/react-dev-week1-Activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VeronicahWanjuu/react-dev-week1-Activity/issues"
+  },
+  "homepage": "https://github.com/VeronicahWanjuu/react-dev-week1-Activity#readme"
+}
